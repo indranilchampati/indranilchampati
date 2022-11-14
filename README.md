@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual Studio Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
@@ -21,5 +21,31 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-github-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+
+
+
+```python
+class indranil:
+
+    def __init__(self):
+        self.username = 'indranilchampati'
+        self.name = 'Indranil Champati'
+        self.twitter = '@i_champati'
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Angular', 'Boostrap'],
+            'backend': ['Python','Flask', 'Django', 'NodeJS'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook']
+        }
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = indranil()
+
+
+```
 
 
