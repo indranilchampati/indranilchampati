@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
 
 
