@@ -31,7 +31,7 @@ class indranil:
         self.name = 'Indranil Champati'
         self.twitter = '@i_champati'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Flutter',Angular', 'Boostrap'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Flutter','Angular', 'Boostrap'],
             'backend': ['Python','Flask', 'Django', 'NodeJS'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'Jupyter notebook']
