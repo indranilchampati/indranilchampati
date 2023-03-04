@@ -1,14 +1,13 @@
-### Hi 👋
-
+### Hi 🖐️
 <!--**indranilchampati/indranilchampati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working as a Cloud application developer 
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Backend Projects
-- 💬 Ask me about Python & AWS services
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/indranilchampati/" target="_blank" >Indranil Champati</a>
+- 🙍‍♂️  I’m currently working as a Cloud application developer 
+- 📓  I’m currently learning Flutter
+- 🙇‍♂️	 I’m looking to collaborate on Backend Projects
+- 🔛  Ask me about Python & AWS services
+- 📫  How to reach me: <a href="https://www.linkedin.com/in/indranilchampati/" target ="_blank" >Indranil Champati</a>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
