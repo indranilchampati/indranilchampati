@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
 
 
 
@@ -35,7 +36,7 @@ class indranil:
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Flutter','Angular', 'Boostrap'],
             'backend': ['Python','Flask', 'Django', 'NodeJS'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Jupyter notebook']
+            'tools': ['AWS','GIT', 'GitHub', 'GitLab', 'Jupyter notebook']
         }
 
     def __str__(self):
