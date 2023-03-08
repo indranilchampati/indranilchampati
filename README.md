@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
 
 
-
 ```python
 class indranil:
 
