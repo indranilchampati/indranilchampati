@@ -35,7 +35,7 @@ class indranil:
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Flutter','Angular', 'Boostrap'],
             'backend': ['Python','Flask', 'Django', 'NodeJS'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'tools': ['AWS','GIT', 'GitHub', 'GitLab', 'Jupyter notebook']
+            'tools': ['AWS','AZURE','Google','GIT', 'GitHub', 'GitLab', 'Jupyter notebook']
         }
 
     def __str__(self):
