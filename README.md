@@ -5,8 +5,8 @@ Here are some ideas to get you started:
 -->
 - 🙍‍♂️  I’m currently working as a Cloud application developer 
 - 📓  I’m currently learning Flutter
-- 🙇‍♂️	 I’m looking to collaborate on Backend Projects
-- 🔛  Ask me about Python , NextJS & AWS services
+- 🙇‍♂️  I’m looking to collaborate on Backend Projects
+- 🔛  Ask me about Python , NestJs & Google Cloud  | AWS | AZURE
 - 📫  How to reach me: <a href="https://www.linkedin.com/in/indranilchampati/" target ="_blank" >Indranil Champati</a>
 
 ## 🔧 Technologies & Tools
