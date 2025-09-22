@@ -62,7 +62,7 @@ self.code = {
         'Python', 'Flask', 'Django', 'NodeJS', 'Express.js', 'NestJS', 'TypeORM', 'REST APIs', 'GraphQL'
     ],
     'database': [
-        'PostgreSQL', 'MySQL', 'SQLite3', 'MongoDB'
+        'PostgreSQL', 'MySQL', 'DynamoDB', 'MongoDB'
     ],
     'cloud': [
         'AWS', 'GCP', 'Azure'
