@@ -54,12 +54,27 @@ class indranil:
         self.username = 'indranilchampati'
         self.name = 'Indranil Champati'
         self.twitter = '@i_champati'
-        self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Flutter','Angular', 'Boostrap'],
-            'backend': ['Python','Flask', 'Django', 'NodeJS'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'tools': ['AWS','AZURE','Google','GIT', 'GitHub', 'GitLab', 'Jupyter notebook']
-        }
+self.code = {
+    'frontend': [
+        'HTML', 'CSS', 'JavaScript', 'TypeScript', 'ReactJS', 'Flutter', 'Bootstrap'
+    ],
+    'backend': [
+        'Python', 'Flask', 'Django', 'NodeJS', 'Express.js', 'NestJS', 'TypeORM', 'REST APIs', 'GraphQL'
+    ],
+    'database': [
+        'PostgreSQL', 'MySQL', 'SQLite3', 'MongoDB'
+    ],
+    'cloud': [
+        'AWS', 'GCP', 'Azure'
+    ],
+    'tools': [
+        'Docker', 'Git', 'GitHub', 'GitLab', 'Postman', 'Jira', 'Confluence', 'Jupyter Notebook'
+    ],
+    'methodologies': [
+        'Agile', 'Scrum'
+    ]
+}
+
 
     def __str__(self):
         return self.name
